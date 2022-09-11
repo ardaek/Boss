@@ -1,0 +1,8 @@
+name: ArecBoss
+version: '${project.version}'
+main: me.arec.arecboss.ArecBoss
+authors: [ Ar3c ]
+description: ArecBoss Plugin
+commands:
+  boss:
+    description: Boss
